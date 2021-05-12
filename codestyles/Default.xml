@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <SqlCodeStyleSettings version="5">
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="SET_EL_WRAP" value="2" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="FROM_EL_WRAP" value="2" />
+  </SqlCodeStyleSettings>
+</code_scheme>
